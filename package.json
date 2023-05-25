@@ -1,20 +1,20 @@
 {
-  "name": "@sidneys/electron-dialog-provider",
+  "name": "@bengennaria/electron-dialog-provider",
   "version": "1.137.0",
   "description": "Simplified interface for Dialogs",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/sidneys/electron-dialog-provider",
+  "homepage": "https://github.com/bengennaria/electron-dialog-provider",
   "author": {
-    "name": "sidneys",
-    "email": "sidneys.github.io@outlook.com",
-    "url": "https://bitbucket.org/sidneys"
+    "name": "bengennaria",
+    "email": "ben.gennaria@gmail.com",
+    "url": "https://github.com/bengennaria"
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/sidneys/electron-dialog-provider.git"
+    "url": "https://github.com/bengennaria/electron-dialog-provider.git"
   },
   "bugs": {
-    "url": "https://bitbucket.org/sidneys/electron-dialog-provider/issues"
+    "url": "https://github.com/bengennaria/electron-dialog-provider/issues"
   },
   "deprecated": false,
   "engines": {
@@ -31,8 +31,8 @@
     "tools"
   ],
   "dependencies": {
-    "@sidneys/logger": "^1.151.0",
-    "@sidneys/platform-tools": "^1.150.0",
+    "@bengennaria/logger": "git+https://bengennaria@github.com/bengennaria/logger.git",
+    "@bengennaria/platform-tools": "git+https://bengennaria@github.com/bengennaria/platform-tools.git",
     "fs-extra": "^9.0.1"
   },
   "devDependencies": {

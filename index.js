@@ -23,8 +23,8 @@ const { app, dialog } = electron || electron.remote
  * External
  * @constant
  */
-const logger = require('@sidneys/logger')({ write: true })
-const platformTools = require('@sidneys/platform-tools')
+const logger = require('@bengennaria/logger')({ write: true })
+const platformTools = require('@bengennaria/platform-tools')
 
 
 /**
